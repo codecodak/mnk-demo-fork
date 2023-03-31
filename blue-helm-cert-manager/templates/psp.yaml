@@ -33,7 +33,7 @@ spec:
     rule: 'MustRunAs'
     ranges:
     - min: 1000
-      max: 1000
+      max: 1100
   seLinux:
     rule: 'RunAsAny'
   supplementalGroups:
